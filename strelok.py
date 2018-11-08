@@ -29,3 +29,5 @@ def circleArea(r):
 #Prompts the user to press enter to continue
 def pause():
     input("Press enter to continue")
+def winner():
+    print("A winner is you")
